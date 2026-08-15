@@ -6,7 +6,7 @@ SPA para la gestión de productos y categorías. Vue 3 (Composition API), TypeSc
 
 - Node.js >= 20
 - [Bun](https://bun.sh) >= 1.3 (recomendado) — alternativa: npm >= 10 (ver más abajo)
-- Backend `laravel-app` corriendo (ver su propio README) en `http://localhost:8000`
+- Backend `laravel-api` corriendo (ver su propio README) en `http://localhost:8000`
 
 ## Instalación y ejecución
 
